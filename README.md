@@ -1,6 +1,6 @@
 ### Hi there 👋, Mofed Salah
 #### 
-I'm Mofed from Egypt, and I am a Backend developer. with a good experience with frontend `angular`.
+I'm Mofed from Egypt, and I am a Backend engineer. with a good experience with frontend `angular`.
 
 and i have a good experience with serverless applications using aws (lambda function, gateway api, route 53,s3 and more)
 
