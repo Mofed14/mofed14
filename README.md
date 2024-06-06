@@ -2,9 +2,9 @@
 #### 
 I'm Mofed from Egypt, and I am a Backend engineer. with a good experience with frontend `angular`.
 
-and i have a good experience with serverless applications using aws (lambda function, gateway api, route 53,s3 and more)
+and I have some experience with serverless applications using AWS (lambda function, gateway API, route 53,s3, and more)
 
-Skills: nodejs / angular / mongodb / mongoose / Typescript / Javascript / aws / expressjs / hapijs / ...and more
+Skills: nodejs / angular / mongodb / mongoose / Typescript / Javascript / AWS / expressjs / hapijs / ...and more
 
 - 🔭 I’m currently working on Nugttah Company 
 
